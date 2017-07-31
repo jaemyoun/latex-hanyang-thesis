@@ -91,6 +91,7 @@
     SizeFeatures={%
         {Size={-12},Font=*-Regular, Ligatures=Rare, Contextuals={Swash,Alternate}},
     	{Size={12-50}, Font=*-BoldSubhead, Ligatures=Rare, Contextuals={Swash,Alternate}}},
+       	% {Size={12-50}, Font=*-RegularSubhead, Ligatures=Rare, Contextuals={Swash,Alternate}}},
     BoldFont=ArnoPro-Bold
     ]{ArnoPro} %
 
